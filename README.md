@@ -48,8 +48,7 @@ Run ElasticSearch locally or set up connection details in the backend.
 
 Running ElasticSearch Locally:
 
-bash
-Copy code
+
 # Download and install ElasticSearch
 # Example for Linux/Mac:
 curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.15.0-linux-x86_64.tar.gz
@@ -60,8 +59,7 @@ cd elasticsearch-7.15.0
 ./bin/elasticsearch
 Run the App:
 
-bash
-Copy code
+
 # Run the frontend
 cd ../frontend
 npm start
